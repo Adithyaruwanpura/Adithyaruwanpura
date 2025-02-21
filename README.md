@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react ,Java**
 
-- 📫 How to reach me **adithyashena@gmail.com**
+- 📫 How to reach me 
 
 - ⚡ Fun fact **Call me as Adhi**
 
