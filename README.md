@@ -13,7 +13,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Java Spring boot, .NET, React, Node, Java servlet, C#**
+- 🌱 I’m currently learning **Java Spring boot, .NET, Mern Stack, Java servlet, C#**
 
 - 💬 Ask me about **react ,Java**
 
