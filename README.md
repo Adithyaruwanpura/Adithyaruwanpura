@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Java Spring boot, .NET, Mern Stack, Java servlet, C#**
 
-- 💬 Ask me about **react ,Java**
+- 💬 Ask me about **react ,Spring boot**
 
 - 📫 How to reach me 
 
