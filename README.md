@@ -19,7 +19,7 @@
 
 - 📫 How to reach me 
 
-- ⚡ Fun fact **Call me as Adhi**
+- ⚡ Fun fact **Call me as Adhi Ruwora**
 
 - :nerd_face: Always `learning new things`.
 
