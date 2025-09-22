@@ -27,11 +27,9 @@
 
 <h3 align="center">My Statistics</h3>
 
-| ![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyaruwanpura&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=7200) | ![Adithya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adithyaruwanpura&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&fire=FF4500&ring=1E90FF&currStreakLabel=1E90FF) |
+| ![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyaruwanpura&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800&v=1) | ![Adithya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adithyaruwanpura&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&fire=FF4500&ring=1E90FF&currStreakLabel=1E90FF&v=1) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyaruwanpura&layout=compact&theme=tokyonight&cache_seconds=7200) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=adithyaruwanpura&show_icons=true&count_private=true&hide_rank=true&custom_title=⭐%20My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&cache_seconds=7200) |
-
----
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyaruwanpura&layout=compact&theme=tokyonight&cache_seconds=1800&v=1) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=adithyaruwanpura&show_icons=true&count_private=true&hide_rank=true&custom_title=⭐%20My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&cache_seconds=1800&v=1) |
 
 
 <h3 align="left">Connect with me:</h3>
