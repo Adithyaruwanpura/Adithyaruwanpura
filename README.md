@@ -13,13 +13,13 @@
 
 ---
 
-- 🌱 I’m currently learning **Java Spring boot, .NET, Mern Stack, Java servlet, C#, Python**
+- 🌱 I’m currently learning **Java Spring boot, .NET, Mern Stack, C#**
 
 - 💬 Ask me about **react ,Spring boot**
 
 - 📫 How to reach me 
 
-- ⚡ Fun fact **Call me as Adhi **
+- ⚡ Fun fact Call me as Adhi 
 
 - :nerd_face: Always `learning new things`.
 
