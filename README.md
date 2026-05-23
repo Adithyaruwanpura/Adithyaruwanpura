@@ -28,8 +28,7 @@
 <h3 align="center">My Statistics</h3>
 
 || ![Adithya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adithyaruwanpura&theme=tokyonight&date_format=M%20j%2C%20Y&fire=FF4500&ring=1E90FF&currStreakLabel=1E90FF) |
-| --- | --- |
-|  | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=adithyaruwanpura&show_icons=true&count_private=true&hide_rank=true&custom_title=⭐%20My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&cache_seconds=1800) |
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
