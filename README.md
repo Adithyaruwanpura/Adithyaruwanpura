@@ -27,7 +27,7 @@
 
 <h3 align="center">My Statistics</h3>
 
-|| ![Adithya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adithyaruwanpura&theme=tokyonight&date_format=M%20j%2C%20Y&fire=FF4500&ring=1E90FF&currStreakLabel=1E90FF) |
+ ![Adithya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adithyaruwanpura&theme=tokyonight&date_format=M%20j%2C%20Y&fire=FF4500&ring=1E90FF&currStreakLabel=1E90FF) 
 
 
 <h3 align="left">Connect with me:</h3>
