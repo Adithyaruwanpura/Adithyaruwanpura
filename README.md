@@ -29,7 +29,7 @@
 
 | ![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyaruwanpura&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800) | ![Adithya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adithyaruwanpura&theme=tokyonight&date_format=M%20j%2C%20Y&fire=FF4500&ring=1E90FF&currStreakLabel=1E90FF) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyaruwanpura&layout=compact&theme=tokyonight&cache_seconds=1800) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=adithyaruwanpura&show_icons=true&count_private=true&hide_rank=true&custom_title=⭐%20My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&cache_seconds=1800) |
+|  | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=adithyaruwanpura&show_icons=true&count_private=true&hide_rank=true&custom_title=⭐%20My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&cache_seconds=1800) |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
